@@ -5,8 +5,7 @@ Image Processing with scikit-image: A Practical Guide
 
 In today's visual world, images hold immense information—but extracting meaningful insights requires the right skills.
 This guide walks you through essential image processing techniques using scikit-image, a powerful Python library for computer vision.
-
-
+###
 🔍 What You'll Learn
 Transform & manipulate images at scale
 
